@@ -1,4 +1,4 @@
-Circuit: * C:\Users\Sam L\Documents\ANU work\ENGN2218\HLab01_BJT_dc.asc
+Circuit: * C:\Users\Sam\Documents\ANUWork\ENGN2218\ENGN2218-PreLabs\LAB01\HLab01_BJT_dc.asc
 
 Warning: Multiple definitions of model "2scr375p" Type: BJT
 Warning: Multiple definitions of model "bc857b" Type: BJT
@@ -28,8 +28,8 @@ Ft:       3.89e+08
 
 
 
-Date: Mon Feb 27 15:50:39 2023
-Total elapsed time: 0.034 seconds.
+Date: Tue Feb 28 23:17:50 2023
+Total elapsed time: 0.102 seconds.
 
 tnom = 27
 temp = 27
