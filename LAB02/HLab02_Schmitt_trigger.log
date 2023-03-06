@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Sam\Documents\ANUWork\ENGN2218\ENGN2218-PreLabs\LAB02\HLab02_Schmitt_trigger.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Mar 06 13:57:09 2023
+Total elapsed time: 0.166 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3783
+traniter = 3750
+tranpoints = 1446
+accept = 1334
+rejected = 112
+matrix size = 15
+fillins = 8
+solver = Normal
+Matrix Compiler1: 822 bytes object code size  0.4/0.2/[0.2]
+Matrix Compiler2: 1.40 KB object code size  0.2/0.3/[0.2]
+
